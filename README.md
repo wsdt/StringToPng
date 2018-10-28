@@ -18,7 +18,7 @@ E.g. a random string like "5dfs45654sfefsfdfdsfew09´" or even a useful informat
 As it is generally a bad idea to execute/download random .exe-files, I did not push it to Github. To run this program just execute following command in the src-directory. 
 ```go run *.go```
 
-The **main.go** contains some configuration params you can change if you want to. 
+The **[main.go](https://github.com/wsdt/GoLang_StringToPng/blob/master/src/main.go)** contains some configuration params you can change if you want to. 
 ```
 const USE_RANDOM_STR = true
 // Length of random str generated (takes only effect if USE_RANDOM_STR true)
