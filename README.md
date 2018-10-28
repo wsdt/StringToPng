@@ -2,7 +2,7 @@
 First of all this is my first Go project, so please bare with me. 
 
 ## What is it? [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-This program converts arbitrary string into a colorful .PNG. 
+This program converts arbitrary strings into a colorful .PNG. 
 
 Example pictures: [pic1](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_0.png), [pic2](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_1.png), 
 [pic3](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_2.png)
