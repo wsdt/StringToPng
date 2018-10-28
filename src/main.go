@@ -3,16 +3,14 @@ package main
 import (
 	"fmt"
 	"time"
+	"math/rand"
+	"sync"
 )
 
 /** © Riedl Kevin, 2018
 My first GoLang program (don't like HelloWorld-programs),
 so please bare with me :) */
 
-import (
-	"math/rand"
-	"sync"
-)
 
 /** CONSTANTS */
 const USE_RANDOM_STR = true
