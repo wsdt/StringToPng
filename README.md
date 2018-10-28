@@ -7,8 +7,8 @@ This program converts arbitrary string into a colorful .PNG.
 Example pictures: [pic1](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_0.png), [pic2](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_1.png), 
 [pic3](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_2.png)
 
-![alt text](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_0.png "Example image")
-![alt text](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_1.png "Example image")
+![alt text](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_0.png "Example image") 
+![alt text](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_1.png "Example image") 
 ![alt text](https://github.com/wsdt/GoLang_StringToPng/blob/master/image_2.png "Example image")
 
 
